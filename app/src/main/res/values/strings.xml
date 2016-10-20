@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Money-Exchange</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="network_error">No internet connection, please check your internet service</string>
+    <string name="currency_uk">UK Pounds (GBP) %s</string>
+    <string name="currency_eu">EU Euro (EUR) %s</string>
+    <string name="currency_japan">Japan Yen (JPY) %s</string>
+    <string name="currency_brazil">Brazil Reais (BRL) %s</string>
+</resources>
